@@ -1,0 +1,95 @@
+body{
+	margin: 0px;
+    background-color: #3a3a61;*/
+}
+	 
+#body-header{
+	height: 170px;
+	width: all;
+	background-color: #3a3a61;
+	 
+}	 
+   
+#favourites{
+text-decoration: none;
+color: white;
+}   
+
+#header-form{
+
+height: 48px;
+width: 300px;
+margin-left: 250px;
+margin-top: 60px;
+display: inline-block;
+position: static;
+border-radius: 5px;
+background-color: #444477;
+border: 0.5px solid #444477;
+background-image: url();
+
+}
+
+#header-image{
+	border-radius: 50%;
+	height: 7rem;
+	width: 7rem;
+	position: static;
+	margin-left: 90%;
+	margin-top: -155px;
+
+}
+
+#slide-image-section{
+	height: 510px;
+	width: 60%;
+	background-color: #3a3a61; 
+	margin-left: 10%;
+	
+}
+
+#image-left{
+	
+	margin-top: 40px;
+	position: static;
+	
+}
+
+#image-center{
+	position: static;
+	margin-top: 38px;
+	margin-left: -308px;
+	height: 401px;
+	width: 530px
+}
+
+/*#image-right{
+	height: 250px;
+	width: 250px;
+	margin-left: 40%;
+	margin-bottom: 10px;
+	display: inline-block;
+	position: static;
+}*/
+
+#second-section{
+	height: 470px;
+	width: 60%;
+	background-color: #3a3a61 ;
+	margin-left: 10%;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+#image1{
+	display: inline-block;
+	
+}
+#onism1{
+
+}
+
+#image2{
+	
+}
